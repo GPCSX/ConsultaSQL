@@ -26,7 +26,7 @@ O programa executa uma consulta SQL para encontrar os colaboradores com o maior 
 - **Nome do Colaborador**
 - **Salário do Colaborador**
 
-## Tabela do Banco de Dados
+## Tabelas do Banco de Dados
 
 #### Tabela 1
 
@@ -36,6 +36,13 @@ ID   | Nome     | Salario  | DepId
 2    | Henry    | 80000    |  2
 3    | Sam      | 60000    |  2
 4    | Max      | 90000    |  1
+
+#### Tabela 2
+
+ID   | Nome     
+---- | -------- 
+1    | TI      
+2    | Vendas    
 
 ## Como Executar
 
